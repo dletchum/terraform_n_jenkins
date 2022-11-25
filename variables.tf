@@ -31,7 +31,7 @@ variable "folder" {
 }
 
 variable "aci_vm1_name" {
-  default = "vSphereC7-1"
+  default = "vSphereC7-u1"
 }
 
 variable "aci_vm2_name" {

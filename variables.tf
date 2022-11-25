@@ -35,7 +35,7 @@ variable "aci_vm1_name" {
 }
 
 variable "aci_vm2_name" {
-  default = "vSphereC7-2"
+  default = "vSphereC7-U2"
 }
 
 variable "aci_vm1_address" {

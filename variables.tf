@@ -31,11 +31,11 @@ variable "folder" {
 }
 
 variable "aci_vm1_name" {
-  default = "vSphereC7-U1"
+  default = "vSphereC7-1"
 }
 
 variable "aci_vm2_name" {
-  default = "vSphereC7-U2"
+  default = "vSphereC7-2"
 }
 
 variable "aci_vm1_address" {
